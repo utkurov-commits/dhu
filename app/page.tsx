@@ -71,7 +71,7 @@ export default function Home() {
             </h1>
             
             <p className="animate-fade-in-up delay-100 text-base md:text-lg text-slate-200 max-w-lg mb-8 leading-relaxed drop-shadow-md">
-              O'zbekiston bo'ylab yuqori sifatli tibbiyot uskunalarini yetkazib beramiz. Ishonchli hamkor, aniq tashxis.
+              O'zbekiston bo'ylab yuqori sifatli medtexnika uskunalarini yetkazib beramiz.
             </p>
 
             <Link 
@@ -161,6 +161,10 @@ export default function Home() {
                   <li className="flex items-center gap-4 text-slate-800 font-semibold text-lg bg-white/70 backdrop-blur-sm p-4 rounded-2xl border border-white shadow-sm hover:shadow-md transition-shadow">
                     <span className="w-10 h-10 rounded-full bg-blue-600 text-white flex items-center justify-center shadow-md">✓</span> 
                     O'zbekiston bo'ylab ishonchli yetkazib berish
+                  </li>
+                  <li className="flex items-center gap-4 text-slate-800 font-semibold text-lg bg-white/70 backdrop-blur-sm p-4 rounded-2xl border border-white shadow-sm hover:shadow-md transition-shadow">
+                    <span className="w-10 h-10 rounded-full bg-blue-600 text-white flex items-center justify-center shadow-md">✓</span> 
+                    Eng ishonchli kompaniya 
                   </li>
                 </ul>
               </div>
